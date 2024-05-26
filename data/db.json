@@ -16,11 +16,14 @@
       "isSessionEnded": true
     },
     {
-        "id": "2",
-        "date": "May 6.2024",
-        "chats": [
-        ],
-        "isSessionEnded": false
+      "id": "2",
+      "date": "May 0.2024",
+      "chats": [
+        {
+          "Rex": "Hi there! I'm ReX, a career advice assisstant. How can I help?"
+        }
+      ],
+      "isSessionEnded": false
     }
   ]
 }

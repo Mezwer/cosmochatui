@@ -118,7 +118,7 @@ const Chat = () => {
         const completion = await openai.chat.completions.create({
             messages: [{
                 role: "system",
-                content: userPrompt
+                content: "Your name is ReX. You are a career advice assistant. " + userPrompt
             }],
             model: "gpt-3.5-turbo",
             max_tokens: 100
