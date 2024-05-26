@@ -1,0 +1,26 @@
+{
+  "sessions": [
+    {
+      "id": "1",
+      "date": "May 6.2024",
+      "chats": [
+        {
+          "user": "Hello, I'm looking for some career advice.",
+          "Rex": "Hi there! I'd be happy to help. What kind of career advice are you looking for?"
+        },
+        {
+          "user": "I'm not sure what career path I should pursue. Can you give me some guidance?",
+          "Rex": "Okay, let's take a look at your skills, interests, and goals. That will help me provide some tailored advice."
+        }
+      ],
+      "isSessionEnded": true
+    },
+    {
+        "id": "2",
+        "date": "May 6.2024",
+        "chats": [
+        ],
+        "isSessionEnded": false
+    }
+  ]
+}
